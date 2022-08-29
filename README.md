@@ -1,7 +1,5 @@
 ```mermaid
 gantt
-
-
     axisFormat %Y
     title       Education and Work
     section Education
@@ -10,5 +8,5 @@ gantt
     section Work
     Speech Interface Design :active, 2004-04-01,2012-04-01
     Bombardier              :active, 2012-04-01,2021-04-01
-    Software Engineering Institute :critical, 2021-04-01,2022-08-24
+    CMU/SEI :active, 2021-04-01,2022-08-24
 ```
